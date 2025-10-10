@@ -6,7 +6,7 @@
 
 Welcome to the FLOTO project, an ambitious initiative aimed at advancing broadband research through large-scale, real-world data collection.
 
-The FLOTO project is a collaborative effort between the [Internet Equity Initiative (IEI)](https://internetequity.uchicago.edu/) and the [Nimbus Group](https://nimbusproject.org/) at the University of Chicago. Our mission is to deploy approximately a thousand edge devices across mostly urban areas in the United States. These devices, equipped with broadband diagnostic tests, serve as our eyes and ears on the ground, collecting valuable data on access network performance and development.
+The FLOTO project is a collaborative effort between the [Internet Innovation Initiative (IEI)](https://internetequity.uchicago.edu/) and the [Nimbus Group](https://nimbusproject.org/) at the University of Chicago. Our mission is to deploy approximately a thousand edge devices across mostly urban areas in the United States. These devices, equipped with broadband diagnostic tests, serve as our eyes and ears on the ground, collecting valuable data on access network performance and development.
 
 A key component of the FLOTO project is [Netrics](https://github.com/internet-equity/netrics), a system originally developed under the BISmark project and now part of the IEI. Netrics uses [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) devices to measure various aspects of internet performance, such as speed, latency, and packet loss. By integrating Netrics into the FLOTO project, we're able to gather granular, real-time data on internet performance directly from users' homes.
 

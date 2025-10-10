@@ -4,7 +4,7 @@
 
 > ## 💎 Netrics Beta Release
 >
-> The Internet Equity Initiative is seeking volunteers to test and review our software and data tools. If you are interested in collaborating with us to make our tools better, please fill our online [interest form](https://docs.google.com/forms/d/e/1FAIpQLSfH3GQpagadoXyZ3040Pty8BpTr4-OKA-XHNKihlCQ62U1lkQ/viewform?usp=sf_link). 
+> The Internet Innovation Initiative is seeking volunteers to test and review our software and data tools. If you are interested in collaborating with us to make our tools better, please fill our online [interest form](https://docs.google.com/forms/d/e/1FAIpQLSfH3GQpagadoXyZ3040Pty8BpTr4-OKA-XHNKihlCQ62U1lkQ/viewform?usp=sf_link). 
 
 We value your feedback on our software and data products. Your input helps us improve and provide better tools for the Internet measurement community.
 

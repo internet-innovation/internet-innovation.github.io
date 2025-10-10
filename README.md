@@ -1,4 +1,4 @@
-# [Internet Equity Initiative](https://internetequity.uchicago.edu) 
+# [Internet Innovation Initiative](https://internetequity.uchicago.edu) 
 ([Github](https://github.com/internet-equity/))
 
 > ### 📥 Submitting Feedback on Netrics
@@ -9,11 +9,11 @@
 
 > ## 💎 Netrics Beta Release
 >
-> The Internet Equity Initiative is seeking volunteers to test and review our software and data tools. If you are interested in collaborating with us to make our tools better, please fill our online [interest form](https://docs.google.com/forms/d/e/1FAIpQLSfH3GQpagadoXyZ3040Pty8BpTr4-OKA-XHNKihlCQ62U1lkQ/viewform?usp=sf_link). Explore our Docker demo of Netrics with this repository [here](https://github.com/internet-equity/netrics-docker/tree/main).
+> The Internet Innovation Initiative is seeking volunteers to test and review our software and data tools. If you are interested in collaborating with us to make our tools better, please fill our online [interest form](https://docs.google.com/forms/d/e/1FAIpQLSfH3GQpagadoXyZ3040Pty8BpTr4-OKA-XHNKihlCQ62U1lkQ/viewform?usp=sf_link). Explore our Docker demo of Netrics with this repository [here](https://github.com/internet-equity/netrics-docker/tree/main).
 
 ## About
 
-The [Internet Equity Initiative](https://internetequity.uchicago.edu) at the
+The [Internet Innovation Initiative](https://internetequity.uchicago.edu) at the
 University of Chicago aims to realize equitable, resilient, and sustainable
 Internet solutions that benefit all communities. As society increasingly relies
 on the Internet for work, education, health care, recreation, and many other
@@ -36,7 +36,7 @@ Read more [here](https://internetequity.uchicago.edu/about/the-initiative).
 
 ## Mission Statement
 
-Our mission at the Internet Equity Initiative is to create equitable,
+Our mission at the Internet Innovation Initiative is to create equitable,
 resilient, and sustainable Internet solutions that benefit all communities. We
 believe that everyone should have equal access to the Internet, and we work to
 close the "digital divide" by taking a data-oriented approach and developing
@@ -126,7 +126,7 @@ team is listed [here](https://internetequity.uchicago.edu/about/team).
 ## Citation
 
 If you use this code or data, please cite the following paper, the Netrics
-code, and the Internet Equity Initiative website:
+code, and the Internet Innovation Initiative website:
 
 ```
 @inproceedings{feamster2022benchmarks,
@@ -157,7 +157,7 @@ src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span
 xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Netrics Data</span>
 by <a xmlns:cc="http://creativecommons.org/ns#"
 href="https://internetequity.uchicago.edu/" property="cc:attributionName"
-rel="cc:attributionURL">Internet Equity Initiative</a> is licensed under a <a
+rel="cc:attributionURL">Internet Innovation Initiative</a> is licensed under a <a
 rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
 Commons Attribution-ShareAlike 4.0 International License</a>.
 

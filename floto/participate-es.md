@@ -6,7 +6,7 @@
 
 # Abordando la Brecha Digital: Un Punto de Datos a la Vez.
 
-La Universidad de Chicago está buscando voluntarios para la ciencia ciudadana en un proyecto de investigación ("FLOTO") dirigido por [el Internet Equity Initiative](https://internetequity.uchicago.edu/) y el [Nimbus Group](https://nimbusproject.org/). (Lea más sobre el proyecto [aquí](https://internetequity.org/floto).) Los participantes recibirán un pequeño probador de velocidad para medir su servicio de Internet junto con una tarjeta de regalo de $50. ¡Regístrese a continuación para recibir un dispositivo de medición! **Consulte nuestra [hoja de información](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) y [preguntas frecuentes](https://internetequity.org/floto/faqs.html) para obtener más detalles sobre la investigación y lo que hace el dispositivo.**
+La Universidad de Chicago está buscando voluntarios para la ciencia ciudadana en un proyecto de investigación ("FLOTO") dirigido por [el Internet Innovation Initiative](https://internetequity.uchicago.edu/) y el [Nimbus Group](https://nimbusproject.org/). (Lea más sobre el proyecto [aquí](https://internetequity.org/floto).) Los participantes recibirán un pequeño probador de velocidad para medir su servicio de Internet junto con una tarjeta de regalo de $50. ¡Regístrese a continuación para recibir un dispositivo de medición! **Consulte nuestra [hoja de información](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) y [preguntas frecuentes](https://internetequity.org/floto/faqs.html) para obtener más detalles sobre la investigación y lo que hace el dispositivo.**
 
 **Ir al [formulario de registro](#sign-up-now) a continuación.**
 

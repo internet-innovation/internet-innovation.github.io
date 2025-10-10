@@ -10,7 +10,7 @@
 
 Bridging the Digital Divide: One Data Point at a Time.
 
-The University of Chicago is seeking citizen science volunteers for a research project ("FLOTO") run by the [Internet Equity Initiative (IEI)](https://internetequity.uchicago.edu/) and the [Nimbus Group](https://nimbusproject.org/). (Read more about the project [here](https://internetequity.org/floto).) Participants will receive a small speed tester to measure their Internet service along with a $50 gift card. Sign up below to receive a measurement device! **See our [information sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) and [FAQs](https://internetequity.org/floto/faqs.html) for more details about the research and what the device does.**
+The University of Chicago is seeking citizen science volunteers for a research project ("FLOTO") run by the [Internet Innovation Initiative (IEI)](https://internetequity.uchicago.edu/) and the [Nimbus Group](https://nimbusproject.org/). (Read more about the project [here](https://internetequity.org/floto).) Participants will receive a small speed tester to measure their Internet service along with a $50 gift card. Sign up below to receive a measurement device! **See our [information sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) and [FAQs](https://internetequity.org/floto/faqs.html) for more details about the research and what the device does.**
 
 **Skip to [sign up form](#sign-up-now) below.**
 
