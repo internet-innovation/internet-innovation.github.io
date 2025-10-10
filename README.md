@@ -1,5 +1,5 @@
 # [Internet Innovation Initiative](https://internetequity.uchicago.edu)
-([Github](https://github.com/internet-equity/))
+([Github](https://github.com/internet-innovation/))
 
 The [Internet Innovation Initiative](https://internetequity.uchicago.edu) at the University of Chicago develops tools and techniques for measuring Internet performance and connectivity. Our work focuses on device-based measurement using open-source software that runs on commodity hardware like Raspberry Pi devices.
 
