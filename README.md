@@ -41,7 +41,7 @@ Web interface for visualizing device measurements: bandwidth, latency, connected
 
 ## People
 
-Led by Professors [Nick Feamster](https://people.cs.uchicago.edu/~feamster/) and [Nicole Marwell](https://crownschool.uchicago.edu/directory/nicole-p-marwell) at the University of Chicago. Executive Director: Alexis Schrubbe. Full team [here](https://internetequity.uchicago.edu/about/team).
+Led by Professors [Nick Feamster](https://people.cs.uchicago.edu/~feamster/) and [Nicole Marwell](https://crownschool.uchicago.edu/directory/nicole-p-marwell) at the University of Chicago. Full team [here](https://internetequity.uchicago.edu/about/team).
 
 ## Citation
 
