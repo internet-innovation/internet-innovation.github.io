@@ -1,0 +1,51 @@
+---
+layout: page
+title: Netrics
+description: Open-source Internet performance measurement system
+img: assets/img/netrics-install.jpg
+importance: 2
+category: Measurement Infrastructure
+github: https://github.com/internet-equity/netrics
+---
+
+![Netrics Installation](/assets/img/netrics-install.jpg){:class="img-fluid rounded z-depth-1" style="max-width: 500px;"}
+
+## Overview
+
+Netrics is an open-source system for measuring Internet performance from deployed devices. Originally developed under the BISmark project, Netrics has evolved into a comprehensive measurement platform that runs on commodity hardware like Raspberry Pi devices.
+
+## Features
+
+- **Configurable Scheduling**: Run measurements at custom intervals
+- **Built-in Tests**: Speed tests (Ookla, NDT, iperf), DNS latency, ping latency, and responsiveness
+- **Extensible Framework**: Easy to add custom measurements
+- **Low Resource Usage**: Designed to run on resource-constrained devices
+
+## Repositories
+
+- **[nm-exp-active-netrics](https://github.com/internet-equity/nm-exp-active-netrics)** - Production version currently deployed in the field
+- **[Netrics (beta)](https://github.com/internet-equity/netrics)** - Redesigned version for easier collaboration and extension
+- **[Netrics Docker](https://github.com/internet-equity/netrics-docker)** - Containerized deployment for easy testing
+
+## Quick Start
+
+Try our Docker demo:
+
+```bash
+git clone https://github.com/internet-equity/netrics-docker
+cd netrics-docker
+docker-compose up
+```
+
+See the [Quick Start Guide](https://github.com/internet-equity/netrics-docker#quick-start) for more details.
+
+## Publications
+
+**Benchmarks or Equity? A New Approach to Measuring Internet Performance**
+*Nick Feamster, Nicole Marwell*
+Conference on Communications, Information, and Internet Policy (TPRC), 2022
+
+## Resources
+
+- [GitHub Organization](https://github.com/internet-equity/)
+- [Performance Data Releases](https://github.com/internet-equity/netrics-data)
