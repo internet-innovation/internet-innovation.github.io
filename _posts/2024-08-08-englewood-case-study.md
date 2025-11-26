@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Case Study: Collaboration with Greater Englewood Chamber of Commerce to Address Digital Inequity"
+title: "Case Study: Collaboration with Greater Englewood Chamber of Commerce to Address Digital Disparity"
 date: 2024-08-08
-description: How community partnerships and data collection can illuminate hidden inequities and catalyze meaningful change.
+description: How community partnerships and data collection can illuminate hidden disparities and catalyze meaningful change.
 tags: community chicago digital-divide case-study
 categories: case-study
 thumbnail: assets/img/blog/englewood-screenshot.jpg
@@ -20,11 +20,11 @@ In a world that runs on connectivity, reliable internet access is not a luxuryâ€
 
 Our journey in Englewood began over 18 months ago when we met the dynamic Executive Director of the GECC, Felicia Statton-Young. Through our conversations, we uncovered a frustrating paradox: Englewood had the physical infrastructure for high-speed internet, yet major service providers were unwilling to "light up" this dark fiber without guaranteed, full-price subscriptions from residentsâ€”a significant barrier for many in the community.
 
-This digital inequity directly impacts economic growth, educational opportunities, and the overall well-being of the neighborhood. We knew that to advocate for change, the community needed more than just stories; they needed data.
+This digital disparity directly impacts economic growth, educational opportunities, and the overall well-being of the neighborhood. We knew that to advocate for change, the community needed more than just stories; they needed data.
 
 ## From Conversation to Action
 
-To truly understand the challenges faced by local businesses, our team became a regular presence at GECC meetings. We listened to the concerns of small business owners, delivered a presentation on the power of internet equity, and began to formulate a plan.
+To truly understand the challenges faced by local businesses, our team became a regular presence at GECC meetings. We listened to the concerns of small business owners, delivered a presentation on the power of internet connectivity, and began to formulate a plan.
 
 The first step was to quantify the problem. Anecdotes about slow speeds and unreliable connections needed to be backed by hard evidence. To achieve this, we organized a giveaway of speedtester devices specifically for Englewood's small business owners where we gave out over a dozen devices for measurement.
 
@@ -40,7 +40,7 @@ This is where our infrastructure became a critical tool for change. Our role in 
 
 Our work in Englewood is an ongoing commitment. As we continue our partnership with the GECC, we are focused on expanding the deployment of devices to build an even more comprehensive picture of the area's internet landscape. The data we collect will be the foundation of a sustained advocacy campaign, empowering community partners to demand the reliable, high-speed infrastructure they deserve.
 
-This initiative in Englewood is a testament to how technology, when guided by community engagement, can illuminate hidden inequities and drive meaningful change. By providing tangible data and unwavering support, we are helping to empower communities to build the connected, thriving future they envision.
+This initiative in Englewood is a testament to how technology, when guided by community engagement, can illuminate hidden disparities and drive meaningful change. By providing tangible data and unwavering support, we are helping to empower communities to build the connected, thriving future they envision.
 
 ---
 

@@ -35,8 +35,8 @@ Visit `http://localhost:4000` to view the site locally.
 ## Related Links
 
 - [Internet Innovation Initiative Website](https://internetequity.uchicago.edu)
-- [GitHub Organization](https://github.com/internet-equity/)
-- [Netrics Data Releases](https://github.com/internet-equity/netrics-data)
+- [GitHub Organization](https://github.com/internet-innovation/)
+- [Netrics Data Releases](https://github.com/internet-innovation/netrics-data)
 
 ## License
 

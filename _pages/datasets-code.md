@@ -11,26 +11,26 @@ nav_order: 4
 
 We collect and release Internet performance data from deployed measurement devices:
 
-- **[Household Internet Performance Data](https://github.com/internet-equity/netrics-data)** - Quarterly releases from our deployments
+- **[Household Internet Performance Data](https://github.com/internet-innovation/netrics-data)** - Quarterly releases from our deployments
 
 ## Software
 
-Our GitHub [organization](https://github.com/internet-equity/) maintains **Netrics**, an open-source system for measuring Internet performance from deployed devices.
+Our GitHub [organization](https://github.com/internet-innovation/) maintains **Netrics**, an open-source system for measuring Internet performance from deployed devices.
 
-> Try our Docker demo: [Quick Start Guide](https://github.com/internet-equity/netrics-docker#quick-start)
+> Try our Docker demo: [Quick Start Guide](https://github.com/internet-innovation/netrics-docker#quick-start)
 
 ### Measurement Software
 
 **Repositories**:
-- **[nm-exp-active-netrics](https://github.com/internet-equity/nm-exp-active-netrics)** - Production version
-- **[Netrics (beta)](https://github.com/internet-equity/netrics)** - Redesigned for easier collaboration
-- **[Netrics Docker](https://github.com/internet-equity/netrics-docker)** - Containerized deployment
+- **[nm-exp-active-netrics](https://github.com/internet-innovation/nm-exp-active-netrics)** - Production version
+- **[Netrics (beta)](https://github.com/internet-innovation/netrics)** - Redesigned for easier collaboration
+- **[Netrics Docker](https://github.com/internet-innovation/netrics-docker)** - Containerized deployment
 
 Bundles network diagnostic tools with configurable scheduling. Built-in tests include speed tests (Ookla, NDT, iperf), DNS latency, ping latency, and responsiveness. Extensible framework for adding custom measurements.
 
 ### Dashboard
 
-**Repository**: [netrics-dash](https://github.com/internet-equity/netrics-dash)
+**Repository**: [netrics-dash](https://github.com/internet-innovation/netrics-dash)
 
 Web interface for visualizing device measurements: bandwidth, latency, connected devices, WiFi performance.
 

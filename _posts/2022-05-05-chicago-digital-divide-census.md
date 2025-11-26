@@ -16,7 +16,7 @@ thumbnail: assets/img/blog/iStock-1028077888-1440x580.jpg
 
 ## Overview
 
-While disparities in broadband access have received increasing national attention for years, pandemic-induced remote work/school and massive federal broadband investment make questions of internet access particularly salient today. Within Chicago, the city government has recently engaged this issue through programs such as Chicago Connected and Broadband Innovation Zones, as well as launching a Digital Equity Council. Understanding the digital divide is the first step toward its mitigation, enabling the government and policymakers to effectively target the limited resources to the least connected areas.
+While disparities in broadband access have received increasing national attention for years, pandemic-induced remote work/school and massive federal broadband investment make questions of internet access particularly salient today. Within Chicago, the city government has recently engaged this issue through programs such as Chicago Connected and Broadband Innovation Zones, as well as launching a Digital Connectivity Council. Understanding the digital divide is the first step toward its mitigation, enabling the government and policymakers to effectively target the limited resources to the least connected areas.
 
 ## Inquiry
 
@@ -32,7 +32,7 @@ To improve understanding of this issue, a Data Science Clinic team and the Data 
 
 ### Question
 
-Which neighborhoods in Chicago experience the greatest Internet inequity and how do social and economic factors, such as income, race, and unemployment, correlate with Internet availability and adoption?
+Which neighborhoods in Chicago experience the greatest Internet disparity and how do social and economic factors, such as income, race, and unemployment, correlate with Internet availability and adoption?
 
 ## Analysis
 
@@ -56,7 +56,7 @@ Our study found that Internet access is most strongly correlated with household 
 
 Our analysis reveals significant disparities in Internet access across community areas in Chicago. Areas with lower Internet access are concentrated on the South and West Sides. These areas have higher poverty and larger minority populations. Policymakers, including the city government, need to take a holistic approach and prioritize their efforts in these most underserved areas.
 
-Income is most strongly associated with Internet access, indicating that Internet inequity in Chicago is potentially an affordability issue. Thus, more programs such as Chicago Connected are needed to provide Internet at lower costs. In the longer term, policymakers can also consider facilitating community networks in underserved neighborhoods, bringing down Internet costs as well as providing employment and digital skills to the residents.
+Income is most strongly associated with Internet access, indicating that Internet disparity in Chicago is potentially an affordability issue. Thus, more programs such as Chicago Connected are needed to provide Internet at lower costs. In the longer term, policymakers can also consider facilitating community networks in underserved neighborhoods, bringing down Internet costs as well as providing employment and digital skills to the residents.
 
 Finally, we found that Internet access is also associated with education and age, indicating that Internet access might also be limited due to its perceived utility or lack of user-friendliness for certain population demographics. This suggests initiatives are needed to provide educational resources to the community — especially older populations — about Internet use.
 

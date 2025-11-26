@@ -9,12 +9,12 @@ nav_order: 8
 
 ## News Articles
 
-### Walter Payton Grad's Study Finds 'Adequate' but Not 'Equitable' Internet Access at 6 CPS Schools
+### Walter Payton Grad's Study Finds 'Adequate' but Not 'Accessible' Internet Access at 6 CPS Schools
 *Maxwell Evans, Block Club Chicago* | September 5, 2023
 
 The analysis by Chris Deng, an incoming University of Chicago freshman, found that only 13 percent of tests run at six CPS schools met the FCC's minimum broadband speed standard.
 
-[Read Article](https://blockclubchicago.org/2023/08/09/walter-payton-grads-study-finds-adequate-but-not-equitable-internet-access-at-6-cps-schools/)
+[Read Article](https://blockclubchicago.org/2023/08/09/walter-payton-grads-study-finds-adequate-but-not-accessible-internet-access-at-6-cps-schools/)
 
 ---
 

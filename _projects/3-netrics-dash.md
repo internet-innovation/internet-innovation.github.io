@@ -5,7 +5,7 @@ description: Web interface for visualizing Internet performance measurements
 img: assets/img/netrics-dashboard.png
 importance: 3
 category: Data & Visualization
-github: https://github.com/internet-equity/netrics-dash
+github: https://github.com/internet-innovation/netrics-dash
 ---
 
 ![Netrics Dashboard](/assets/img/netrics-dashboard.png){:class="img-fluid rounded z-depth-1"}
@@ -27,7 +27,7 @@ Participants in the FLOTO project receive access to a private dashboard where th
 
 ## Repository
 
-- **[netrics-dash](https://github.com/internet-equity/netrics-dash)** - Dashboard source code
+- **[netrics-dash](https://github.com/internet-innovation/netrics-dash)** - Dashboard source code
 
 ## Backend Infrastructure
 

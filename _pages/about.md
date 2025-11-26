@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle:
-description: The Internet Innovation Initiative aims to realize equitable, resilient, and sustainable Internet solutions that benefit all communities
+description: The Internet Innovation Initiative aims to realize accessible, resilient, and sustainable Internet solutions that benefit all communities
 nav: false
 
 profile:
@@ -16,9 +16,9 @@ social: false
 
 ## The Initiative
 
-**The Internet Innovation Initiative aims to realize equitable, resilient, and sustainable Internet solutions that benefit all communities**
+**The Internet Innovation Initiative aims to realize accessible, resilient, and sustainable Internet solutions that benefit all communities**
 
-As society increasingly relies on the Internet for work, education, health care, recreation, and many other aspects of daily life, the prevalent and persistent inequity in people's ability to access, adopt, and use the Internet is more evident than ever. In the wake of the COVID-19 pandemic, these inequities have become apparent at the global, national, municipal, and neighborhood scales. For example, at the start of the pandemic in the City of Chicago, more than 110,000 children under the age of 18 lacked access to broadband Internet connectivity, and in certain neighborhoods, nearly half of children under 18 lacked Internet connectivity. These gaps become even more pronounced in times of crisis and natural disaster when communities rely almost exclusively on Internet communications for many critical aspects of daily life. The issue has not gone unnoticed by policymakers, who have developed a variety of local efforts to provide schoolchildren with Internet service and Internet-connected devices, and recently passed federal legislation committing nearly $65 billion to improve Internet access, affordability, and literacy. Stakeholders who are making decisions about where and how to direct these investments need better information along the following three dimensions:
+As society increasingly relies on the Internet for work, education, health care, recreation, and many other aspects of daily life, the prevalent and persistent disparity in people's ability to access, adopt, and use the Internet is more evident than ever. In the wake of the COVID-19 pandemic, these disparities have become apparent at the global, national, municipal, and neighborhood scales. For example, at the start of the pandemic in the City of Chicago, more than 110,000 children under the age of 18 lacked access to broadband Internet connectivity, and in certain neighborhoods, nearly half of children under 18 lacked Internet connectivity. These gaps become even more pronounced in times of crisis and natural disaster when communities rely almost exclusively on Internet communications for many critical aspects of daily life. The issue has not gone unnoticed by policymakers, who have developed a variety of local efforts to provide schoolchildren with Internet service and Internet-connected devices, and recently passed federal legislation committing nearly $65 billion to improve Internet access, affordability, and literacy. Stakeholders who are making decisions about where and how to direct these investments need better information along the following three dimensions:
 
 - Measurement techniques and datasets that directly address unknown questions and evaluate the effectiveness of different interventions;
 

@@ -11,7 +11,7 @@ The Internet Innovation Initiative endeavors to realize resilient and sustainabl
 
 ## The Problem
 
-Reliance on the Internet has grown exponentially in recent years, for work, education, healthcare, and daily life. Yet significant inequities in Internet access persist in communities around the globe—and right here in Chicago. When the COVID-19 pandemic began in March of 2020, more than 110,000 children under the age of 18 lacked access to broadband Internet connectivity in the city of Chicago. In some neighborhoods, almost half of all children were not connected.
+Reliance on the Internet has grown exponentially in recent years, for work, education, healthcare, and daily life. Yet significant disparities in Internet access persist in communities around the globe—and right here in Chicago. When the COVID-19 pandemic began in March of 2020, more than 110,000 children under the age of 18 lacked access to broadband Internet connectivity in the city of Chicago. In some neighborhoods, almost half of all children were not connected.
 
 Policymakers have taken note, and a range of local and federal policy initiatives have responded to these concerns, from local programs such as Chicago Connected, to sweeping national legislation committing nearly $65 billion toward improvements in broadband infrastructure.
 

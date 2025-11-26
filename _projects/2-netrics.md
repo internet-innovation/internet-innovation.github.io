@@ -5,7 +5,7 @@ description: Open-source Internet performance measurement system
 img: assets/img/netrics-install.jpg
 importance: 2
 category: Measurement Infrastructure
-github: https://github.com/internet-equity/netrics
+github: https://github.com/internet-innovation/netrics
 ---
 
 ![Netrics Installation](/assets/img/netrics-install.jpg){:class="img-fluid rounded z-depth-1" style="max-width: 500px;"}
@@ -23,21 +23,21 @@ Netrics is an open-source system for measuring Internet performance from deploye
 
 ## Repositories
 
-- **[nm-exp-active-netrics](https://github.com/internet-equity/nm-exp-active-netrics)** - Production version currently deployed in the field
-- **[Netrics (beta)](https://github.com/internet-equity/netrics)** - Redesigned version for easier collaboration and extension
-- **[Netrics Docker](https://github.com/internet-equity/netrics-docker)** - Containerized deployment for easy testing
+- **[nm-exp-active-netrics](https://github.com/internet-innovation/nm-exp-active-netrics)** - Production version currently deployed in the field
+- **[Netrics (beta)](https://github.com/internet-innovation/netrics)** - Redesigned version for easier collaboration and extension
+- **[Netrics Docker](https://github.com/internet-innovation/netrics-docker)** - Containerized deployment for easy testing
 
 ## Quick Start
 
 Try our Docker demo:
 
 ```bash
-git clone https://github.com/internet-equity/netrics-docker
+git clone https://github.com/internet-innovation/netrics-docker
 cd netrics-docker
 docker-compose up
 ```
 
-See the [Quick Start Guide](https://github.com/internet-equity/netrics-docker#quick-start) for more details.
+See the [Quick Start Guide](https://github.com/internet-innovation/netrics-docker#quick-start) for more details.
 
 ## Publications
 
@@ -47,5 +47,5 @@ Conference on Communications, Information, and Internet Policy (TPRC), 2022
 
 ## Resources
 
-- [GitHub Organization](https://github.com/internet-equity/)
-- [Performance Data Releases](https://github.com/internet-equity/netrics-data)
+- [GitHub Organization](https://github.com/internet-innovation/)
+- [Performance Data Releases](https://github.com/internet-innovation/netrics-data)
