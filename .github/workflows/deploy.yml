@@ -72,6 +72,7 @@ jobs:
           ruby-version: "3.3.5"
       - name: Install dependencies 📦
         run: |
+          gem install bundler
           bundle config set --local path vendor/bundle
           bundle install --jobs 4 --retry 3
       - name: Setup Python 🐍
