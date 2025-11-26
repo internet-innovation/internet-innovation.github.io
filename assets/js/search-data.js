@@ -23,19 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/datasets-code/";
           },
-        },{id: "nav-floto",
-          title: "FLOTO",
-          description: "Large-scale edge device deployment for broadband research",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/floto/";
-          },
-        },{id: "projects-floto",
-          title: 'FLOTO',
-          description: "Large-scale edge device deployment for broadband research",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1-floto/";
-            },},{id: "projects-netrics",
+        },{id: "projects-netrics",
           title: 'Netrics',
           description: "Open-source Internet performance measurement system",
           section: "Projects",handler: () => {
