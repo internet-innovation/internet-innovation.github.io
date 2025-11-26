@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-home",
-          title: "Home",
-          description: "Developing tools and techniques for measuring Internet performance and connectivity at the University of Chicago",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/";
-          },
-        },{id: "nav-about",
+  },{id: "nav-about",
           title: "About",
           description: "About the Internet Innovation Initiative",
           section: "Navigation",
