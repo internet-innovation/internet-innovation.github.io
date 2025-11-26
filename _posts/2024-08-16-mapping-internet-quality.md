@@ -14,21 +14,9 @@ thumbnail: assets/img/blog/mapping-screenshot.jpg
     </div>
 </div>
 
-## Overview
+If you follow our research, you know that broadband measurement is at the heart of our project. The Internet Innovation Initiative's core insight is leveraging advances in edge computing and hardware to improve broadband measurement for research and policy while reducing the costs and complexity of managing edge deployments. Our work over the last two years has helped support multiple efforts by researchers and policymakers to collect robust broadband performance data needed for effective analysis and decision-making.
 
-The Internet Innovation Initiative's work in broadband measurement continues through collaboration with the University of Chicago. Three students completed research addressing broadband policy challenges affecting universal internet access in the United States.
-
-## Key Points
-
-Broadband measurement is at the heart of our project. The Internet Innovation Initiative leverages edge computing and hardware advances to enhance broadband measurement for research and policy applications while reducing deployment complexity and costs.
-
-The students' presentation examines the complexities of broadband policy in the United States and underscores the necessity for improved broadband data to identify infrastructure gaps more effectively.
-
-The research identifies a critical need for better broadband performance data to support infrastructure investment decisions.
-
-## Funding
-
-The Internet Innovation Initiative receives support through a National Science Foundation grant (Award No. 2213821 - CCRI CISE).
+The recent work of three students from the University of Chicago Data Science Institute's Data Science Clinic further emphasizes the policy issues facing universal broadband access in the United States. The video summarizing their work and research is an excellent resource for understanding the complexities of broadband policy in the United States. It also surfaces the need for better broadband data in general to improve our methods of identifying where better infrastructure is needed the most.
 
 ---
 

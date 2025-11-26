@@ -14,30 +14,33 @@ thumbnail: assets/img/blog/englewood-screenshot.jpg
     </div>
 </div>
 
-## Overview
+## Lighting Up Englewood: How Data and Community Collaboration are Tackling the Digital Divide
 
-The Internet Innovation Initiative partnered with the Greater Englewood Chamber of Commerce to address digital inequity on Chicago's South Side. The collaboration emerged from a paradox: while fiber optic infrastructure existed beneath Englewood's streets, major internet service providers refused to activate it without guaranteed full-price subscriptions from residents.
+In a world that runs on connectivity, reliable internet access is not a luxury—it's a lifeline. For the vibrant community of Englewood on Chicago's South Side, this lifeline has remained just out of reach, despite fiber optic cables lying dormant beneath their streets. This is the story of how the Internet Innovation Initiative, in partnership with the Greater Englewood Chamber of Commerce (GECC), is working to change that.
 
-## Key Challenge
+Our journey in Englewood began over 18 months ago when we met the dynamic Executive Director of the GECC, Felicia Statton-Young. Through our conversations, we uncovered a frustrating paradox: Englewood had the physical infrastructure for high-speed internet, yet major service providers were unwilling to "light up" this dark fiber without guaranteed, full-price subscriptions from residents—a significant barrier for many in the community.
 
-The community needed empirical evidence to advocate for change beyond anecdotal complaints about slow speeds and unreliable connections.
+This digital inequity directly impacts economic growth, educational opportunities, and the overall well-being of the neighborhood. We knew that to advocate for change, the community needed more than just stories; they needed data.
 
-## Solution Implemented
+## From Conversation to Action
 
-The Internet Innovation Initiative distributed speedtester devices to local business owners, enabling measurement of actual internet performance across the neighborhood. This data collection effort aimed to build a localized map of internet quality issues.
+To truly understand the challenges faced by local businesses, our team became a regular presence at GECC meetings. We listened to the concerns of small business owners, delivered a presentation on the power of internet equity, and began to formulate a plan.
 
-## The Initiative's Role
+The first step was to quantify the problem. Anecdotes about slow speeds and unreliable connections needed to be backed by hard evidence. To achieve this, we organized a giveaway of speedtester devices specifically for Englewood's small business owners where we gave out over a dozen devices for measurement.
 
-The project leveraged the Internet Innovation Initiative's infrastructure to:
-- Measure connectivity reality
-- Gather performance evidence
-- Empower community advocacy through data-driven insights
+This is where our infrastructure became a critical tool for change. Our role in this initiative is to:
 
-## Next Steps
+- **Measure Reality:** Provide easy-to-use speedtester devices that capture the real-time quality of existing internet services.
 
-The partnership plans to expand device deployment to create comprehensive documentation of Englewood's internet landscape, supporting sustained advocacy campaigns for improved infrastructure access.
+- **Gather Evidence:** Remotely manage the deployed devices and collect performance data, building a detailed, localized map of internet quality.
 
-This case demonstrates how technology-guided community engagement can illuminate hidden inequities and catalyze meaningful change.
+- **Empower Advocacy:** Analyze the collected data to create a powerful evidence-based case for better service.
+
+## The Road Ahead
+
+Our work in Englewood is an ongoing commitment. As we continue our partnership with the GECC, we are focused on expanding the deployment of devices to build an even more comprehensive picture of the area's internet landscape. The data we collect will be the foundation of a sustained advocacy campaign, empowering community partners to demand the reliable, high-speed infrastructure they deserve.
+
+This initiative in Englewood is a testament to how technology, when guided by community engagement, can illuminate hidden inequities and drive meaningful change. By providing tangible data and unwavering support, we are helping to empower communities to build the connected, thriving future they envision.
 
 ---
 
