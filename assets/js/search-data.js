@@ -95,7 +95,7 @@ ninja.data = [{
       
         title: "Is Your WiFi Limiting Your Home Internet Performance?",
       
-      description: "WiFi bottlenecks are widespread - 89 percent of studied households experienced at least one during our analysis.",
+      description: "How WiFi bottlenecks affect your Internet experience and what you can do about it.",
       section: "Posts",
       handler: () => {
         
@@ -106,7 +106,7 @@ ninja.data = [{
       
         title: "Understanding Chicago&#39;s Digital Divide: What Does Census Data Tell Us?",
       
-      description: "Examining internet access disparities across Chicago&#39;s 77 community areas using U.S. Census Bureau data.",
+      description: "We evaluate which neighborhoods in Chicago are the least connected in the context of socioeconomic factors.",
       section: "Posts",
       handler: () => {
         
@@ -117,7 +117,7 @@ ninja.data = [{
       
         title: "A Tale of Two Gigs",
       
-      description: "Do households with identical internet plans experience comparable performance across different neighborhoods?",
+      description: "We compare the Internet performance of two households in different neighborhoods that subscribe to the same Internet service offering.",
       section: "Posts",
       handler: () => {
         
@@ -194,7 +194,7 @@ ninja.data = [{
       
         title: "How Much Internet Does Video Conferencing Need?",
       
-      description: "Laboratory experiments reveal the bandwidth requirements for Zoom, Google Meet, and Microsoft Teams.",
+      description: "We tested popular video conferencing applications to see how much home internet bandwidth is needed for remote work and school.",
       section: "Posts",
       handler: () => {
         
