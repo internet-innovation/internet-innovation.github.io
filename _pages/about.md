@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle:
-description: The Internet Innovation Initiative aims to realize accessible, resilient, and sustainable Internet solutions that benefit all communities
+description: Developing tools and techniques for measuring Internet performance and connectivity at the University of Chicago
 nav: false
 
 profile:
@@ -14,33 +14,34 @@ selected_papers: false
 social: false
 ---
 
-## The Initiative
+The Internet Innovation Initiative is an interdisciplinary research initiative at the University of Chicago focused on producing datasets, toolkits, and actionable research and insights to support communities working on broadband access across the United States.
 
-**The Internet Innovation Initiative aims to realize accessible, resilient, and sustainable Internet solutions that benefit all communities**
+Our team brings together researchers with expertise spanning urban governance, social science, computer science, and computer networking, alongside staff with technology and policy backgrounds.
 
-As society increasingly relies on the Internet for work, education, health care, recreation, and many other aspects of daily life, the prevalent and persistent disparity in people's ability to access, adopt, and use the Internet is more evident than ever. In the wake of the COVID-19 pandemic, these disparities have become apparent at the global, national, municipal, and neighborhood scales. For example, at the start of the pandemic in the City of Chicago, more than 110,000 children under the age of 18 lacked access to broadband Internet connectivity, and in certain neighborhoods, nearly half of children under 18 lacked Internet connectivity. These gaps become even more pronounced in times of crisis and natural disaster when communities rely almost exclusively on Internet communications for many critical aspects of daily life. The issue has not gone unnoticed by policymakers, who have developed a variety of local efforts to provide schoolchildren with Internet service and Internet-connected devices, and recently passed federal legislation committing nearly $65 billion to improve Internet access, affordability, and literacy. Stakeholders who are making decisions about where and how to direct these investments need better information along the following three dimensions:
+## Our Work
 
-- Measurement techniques and datasets that directly address unknown questions and evaluate the effectiveness of different interventions;
+We develop tools and techniques for measuring Internet performance and connectivity. Our work focuses on device-based measurement using open-source software that runs on commodity hardware like Raspberry Pi devices.
 
-- Data-driven collaborations with communities that are underserved by current Internet infrastructure to develop and test different options for infrastructure investments, the effectiveness of which can depend critically on the specific characteristics and needs found in different communities;
+**Internet Study:** We actively recruit residents to participate in research measuring home internet connection performance, aiming to understand broadband access and performance variations across different communities.
 
-- Better data and analysis about how Internet connectivity relates to the social and individual conditions that contribute to whether and how the Internet actually improves people's lived experience.
+**Community Collaboration:** Partnership is a cornerstone of our work. We collaborate with organizations including [data.org](https://data.org), Ookla, the City of Chicago, Illinois Office of Broadband, and various community groups.
 
-Answering these questions requires developing entirely new approaches—from the types of data we gather, to the choices we make regarding where and how to gather it, to the techniques we develop to inform decisions. Towards this goal, the University of Chicago has formed a collaborative research partnership between the Department of Computer Science and the Crown Family School of Social Work, Policy, and Practice to establish the Internet Innovation Initiative.
+## Current Research
 
-The Internet Innovation Initiative brings together experts in computer science, social science, data science, and public policy to take a data-oriented approach to close the "digital divide", focusing on the following three areas:
+Our current research focuses on several key areas:
 
-## Problem-driven measurement, data, and analysis.
+- **Internet Performance Measurement**: Developing scalable systems for measuring broadband connectivity
+  - [Netrics](/projects/2-netrics/): Open-source Internet performance measurement system
 
-Currently available data on the state of internet access and functionality in the U.S. offer a skewed and sometimes erroneous portrait of our current Internet infrastructure, capabilities, and service options. Effective technical, policy, and regulatory solutions require data and analysis that are more responsive to the specific questions that Internet stakeholders are posing. A significant shortcoming of current datasets, for example, is that their samples significantly under-represent specific geographies, especially those that lack good connectivity and have fewer Internet subscribers. Tackling this problem requires a completely new approach to internet measurement, gathering data at all "levels of the stack," from physical infrastructure to quality of experience, and at varying granularities, including hyper-local. Our initial efforts are focused on developing a proof-of-concept across the City of Chicago that can be replicated and deployed nationwide (and eventually globally).
+- **Data Collection and Analysis**: Gathering and releasing Internet performance data
+  - [Household Internet Performance Data](https://github.com/internet-innovation/netrics-data): Quarterly releases from our deployments
 
-## Models to evaluate diverse connectivity options.
+- **Visualization and Dashboards**: Making network data accessible and actionable
+  - [Netrics Dashboard](/projects/3-netrics-dash/): Web interface for visualizing device measurements
 
-As connectivity technologies continue to progress, the variety of technical deployment options for providing connectivity within a community has expanded. In any particular setting, the best (and most cost-effective) connectivity solutions have to solve at least two problems: how to get connectivity to a building where people live or work and how to distribute connectivity within the building, such as to individual apartments. The most appropriate combination of components and technologies for any particular setting ultimately depends on myriad factors, from neighborhood topography and building materials to the architecture and configuration of each building, to the governance and trust dynamics between building inhabitants, owners, and other community members. Ultimately, every deployment scenario is different; thus, new approaches are needed to provide scalable models that can help property owners, community organizations, and other stakeholders design and evaluate the combination of technologies that can provide the best connectivity to people across diverse contexts.
+## Resources
 
-## Social effects of infrastructure investments.
-
-Ultimately, the value of new investments in Internet infrastructure hinges on whether these investments lead to improved outcomes in society. One of the significant challenges is thus determining how to measure and characterize the downstream social effects of infrastructure investment, both to evaluate the effectiveness of these investments and to understand how different population groups are benefitting from these investments. Towards this goal, the Internet Innovation Initiative will investigate the individual and social effects of public and private attempts to promote Internet connectivity. One current project, a partnership with Chicago Public Schools and the Chicago Consortium on School Research, evaluates how Chicago Connected, a free Internet connectivity program made available to all public school students soon after the onset of the pandemic, has benefited groups of students from different socioeconomic backgrounds and residential locations. Another is a partnership with UChicago Medicine, where we are evaluating whether the presence of Internet connectivity and Internet-connected devices in homes—such as voice assistants—can improve health outcomes.
+We offer maps, data stories, research publications, working papers, community resources, and technical datasets. Visit our [Data & Code](/datasets-code/) page to access our resources, or read our [Blog](/blog/) for data stories and insights.
 
 ---
 
@@ -61,3 +62,28 @@ We gratefully acknowledge support from [data.org](https://data.org), the [Nation
 **Location:** John Crerar Library Building, 5730 South Ellis Avenue, Suite 263, Chicago, IL 60637
 
 **Email:** [broadband-research@lists.uchicago.edu](mailto:broadband-research@lists.uchicago.edu)
+
+---
+
+## Citation
+
+If you use this code or data, please cite:
+
+```bibtex
+@inproceedings{feamster2022benchmarks,
+   url = { https://tprcweb.com/ },
+   pages = { 1--10 },
+   address = { Washington, DC },
+   month = { sep },
+   year = { 2022 },
+   booktitle = { Conference on Communications, Information, and Internet Policy (TPRC) },
+   title = { Benchmarks or Equity? A New Approach to Measuring Internet Performance },
+   author = { Nick Feamster and Nicole Marwell },
+}
+```
+
+---
+
+## License
+
+Code is released under Apache 2.0 License. Data is released under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
