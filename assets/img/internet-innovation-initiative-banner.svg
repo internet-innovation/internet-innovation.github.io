@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <defs>
+    <!-- Gradient backgrounds -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1628;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#112240;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a365d;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f472b6;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#0ea5e9;stop-opacity:0.7" />
+    </linearGradient>
+    
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGrad)"/>
+  
+  <!-- Subtle grid pattern -->
+  <g opacity="0.08">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00d4ff" stroke-width="0.5"/>
+    </pattern>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+  </g>
+  
+  <!-- Abstract network connections - background layer -->
+  <g opacity="0.15" stroke="#00d4ff" stroke-width="1">
+    <line x1="50" y1="350" x2="200" y2="250"/>
+    <line x1="200" y1="250" x2="150" y2="120"/>
+    <line x1="150" y1="120" x2="320" y2="80"/>
+    <line x1="320" y1="80" x2="450" y2="150"/>
+    <line x1="1150" y1="50" x2="1050" y2="150"/>
+    <line x1="1050" y1="150" x2="1100" y2="280"/>
+    <line x1="1100" y1="280" x2="980" y2="350"/>
+  </g>
+  
+  <!-- Main network visualization - left side -->
+  <g filter="url(#glow)">
+    <!-- Connection lines -->
+    <g stroke="url(#accentGrad)" stroke-width="2" opacity="0.6">
+      <line x1="80" y1="200" x2="180" y2="140"/>
+      <line x1="180" y1="140" x2="280" y2="180"/>
+      <line x1="280" y1="180" x2="220" y2="280"/>
+      <line x1="220" y1="280" x2="80" y2="200"/>
+      <line x1="180" y1="140" x2="220" y2="280"/>
+      <line x1="280" y1="180" x2="350" y2="120"/>
+      <line x1="350" y1="120" x2="400" y2="200"/>
+      <line x1="280" y1="180" x2="400" y2="200"/>
+    </g>
+    
+    <!-- Nodes -->
+    <circle cx="80" cy="200" r="8" fill="url(#nodeGrad)"/>
+    <circle cx="180" cy="140" r="10" fill="#00d4ff"/>
+    <circle cx="280" cy="180" r="12" fill="#7c3aed"/>
+    <circle cx="220" cy="280" r="7" fill="#00d4ff"/>
+    <circle cx="350" cy="120" r="6" fill="#f472b6"/>
+    <circle cx="400" cy="200" r="9" fill="url(#nodeGrad)"/>
+  </g>
+  
+  <!-- Main network visualization - right side -->
+  <g filter="url(#glow)">
+    <!-- Connection lines -->
+    <g stroke="url(#accentGrad)" stroke-width="2" opacity="0.6">
+      <line x1="900" y1="150" x2="980" y2="200"/>
+      <line x1="980" y1="200" x2="1050" y2="140"/>
+      <line x1="1050" y1="140" x2="1120" y2="200"/>
+      <line x1="1120" y1="200" x2="1080" y2="300"/>
+      <line x1="1080" y1="300" x2="980" y2="280"/>
+      <line x1="980" y1="280" x2="980" y2="200"/>
+      <line x1="980" y1="200" x2="1080" y2="300"/>
+      <line x1="900" y1="150" x2="850" y2="220"/>
+      <line x1="850" y1="220" x2="900" y2="310"/>
+    </g>
+    
+    <!-- Nodes -->
+    <circle cx="900" cy="150" r="9" fill="#7c3aed"/>
+    <circle cx="980" cy="200" r="11" fill="url(#nodeGrad)"/>
+    <circle cx="1050" cy="140" r="7" fill="#f472b6"/>
+    <circle cx="1120" cy="200" r="10" fill="#00d4ff"/>
+    <circle cx="1080" cy="300" r="8" fill="url(#nodeGrad)"/>
+    <circle cx="980" cy="280" r="6" fill="#7c3aed"/>
+    <circle cx="850" cy="220" r="8" fill="#00d4ff"/>
+    <circle cx="900" cy="310" r="7" fill="#f472b6"/>
+  </g>
+  
+  <!-- Data flow particles -->
+  <g fill="#00d4ff" opacity="0.8">
+    <circle cx="130" cy="170" r="3"/>
+    <circle cx="250" cy="230" r="2"/>
+    <circle cx="315" cy="150" r="2.5"/>
+    <circle cx="940" cy="175" r="2.5"/>
+    <circle cx="1030" cy="250" r="3"/>
+    <circle cx="1100" cy="170" r="2"/>
+  </g>
+  
+  <!-- Globe/world icon suggestion -->
+  <g transform="translate(600, 200)" filter="url(#softGlow)">
+    <circle cx="0" cy="0" r="45" fill="none" stroke="url(#accentGrad)" stroke-width="2" opacity="0.4"/>
+    <ellipse cx="0" cy="0" rx="45" ry="20" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+    <ellipse cx="0" cy="0" rx="20" ry="45" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+    <line x1="-45" y1="0" x2="45" y2="0" stroke="#00d4ff" stroke-width="1" opacity="0.4"/>
+    <line x1="0" y1="-45" x2="0" y2="45" stroke="#00d4ff" stroke-width="1" opacity="0.4"/>
+  </g>
+  
+  <!-- Accent line -->
+  <rect x="450" y="310" width="300" height="3" rx="1.5" fill="url(#accentGrad)" opacity="0.8"/>
+  
+  <!-- Main title -->
+  <text x="600" y="175" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">
+    INTERNET INNOVATION
+  </text>
+  <text x="600" y="235" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">
+    INITIATIVE
+  </text>
+  
+  <!-- Decorative corner elements -->
+  <g stroke="#00d4ff" stroke-width="2" opacity="0.5">
+    <path d="M 30 30 L 30 60 M 30 30 L 60 30"/>
+    <path d="M 1170 30 L 1170 60 M 1170 30 L 1140 30"/>
+    <path d="M 30 370 L 30 340 M 30 370 L 60 370"/>
+    <path d="M 1170 370 L 1170 340 M 1170 370 L 1140 370"/>
+  </g>
+</svg>
