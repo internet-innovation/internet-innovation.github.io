@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://internetequity.org/sitemap.xml
