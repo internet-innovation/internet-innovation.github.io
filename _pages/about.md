@@ -7,8 +7,6 @@ description: Developing tools and techniques for measuring Internet performance 
 nav: false
 
 profile:
-  image: internet-innovation-initiative-banner.svg
-  image_circular: false
 
 news: false
 latest_posts: false
