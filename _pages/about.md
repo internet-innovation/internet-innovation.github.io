@@ -13,8 +13,6 @@ selected_papers: false
 social: false
 ---
 
-# Internet Innovation Initiative
-
 The [Internet Innovation Initiative](https://internetequity.uchicago.edu) at the University of Chicago develops tools and techniques for measuring Internet performance and connectivity. Our work focuses on device-based measurement using open-source software that runs on commodity hardware like Raspberry Pi devices.
 
 Read more about the initiative [here](https://internetequity.uchicago.edu/about/the-initiative).
@@ -24,14 +22,13 @@ Read more about the initiative [here](https://internetequity.uchicago.edu/about/
 Our current research focuses on several key areas:
 
 - **Internet Performance Measurement**: Developing scalable systems for measuring broadband connectivity
-  - [FLOTO](/projects/floto/): Large-scale edge device deployment for broadband research
-  - [Netrics](/projects/netrics/): Open-source Internet performance measurement system
+  - [Netrics](/projects/2-netrics/): Open-source Internet performance measurement system
 
 - **Data Collection and Analysis**: Gathering and releasing Internet performance data
   - [Household Internet Performance Data](https://github.com/internet-equity/netrics-data): Quarterly releases from our deployments
 
 - **Visualization and Dashboards**: Making network data accessible and actionable
-  - [Netrics Dashboard](/projects/netrics-dash/): Web interface for visualizing device measurements
+  - [Netrics Dashboard](/projects/3-netrics-dash/): Web interface for visualizing device measurements
 
 ## Projects
 
@@ -41,21 +38,17 @@ Explore our research [projects](/projects/).
 
 We release datasets, code, and tools to enable reproducible research. Visit our [Data & Code](/datasets-code/) page to access our resources.
 
-## Get Involved
-
-We are seeking volunteers to host measurement devices. Learn about how to get involved by visiting our [FLOTO participation page](/floto/participate/).
-
 ---
 
 ## People
 
-Led by Professors [Nick Feamster](https://people.cs.uchicago.edu/~feamster/) and [Nicole Marwell](https://crownschool.uchicago.edu/directory/nicole-p-marwell) at the University of Chicago. Full team [here](https://internetequity.uchicago.edu/about/team).
+Led by Professors [Nick Feamster](https://people.cs.uchicago.edu/~feamster/) and [Nicole Marwell](https://crownschool.uchicago.edu/directory/nicole-p-marwell) at the University of Chicago. See the full [team](/people/).
 
 ---
 
 ## Funding
 
-We gratefully acknowledge support from the National Science Foundation (NSF) and data.org.
+We gratefully acknowledge support from [data.org](https://data.org) and the [National Science Foundation](https://nsf.gov) Internet Measurement Research (IMR) program.
 
 ---
 
