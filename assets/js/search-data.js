@@ -84,7 +84,7 @@ ninja.data = [{
       
         title: "Case Study: IPv4 vs. IPv6 Internet Speed Analysis",
       
-      description: "Examining how Internet speed differs between IPv4 and IPv6 protocols using the Internet Innovation Initiative research platform.",
+      description: "Examining how Internet speed differs between IPv4 and IPv6 protocols.",
       section: "Posts",
       handler: () => {
         
