@@ -5,12 +5,12 @@ date: 2024-08-08
 description: How community partnerships and data collection can illuminate hidden inequities and catalyze meaningful change.
 tags: community chicago digital-divide case-study
 categories: case-study
-thumbnail: assets/img/blog/englewood-screenshot.png
+thumbnail: assets/img/blog/englewood-screenshot.jpg
 ---
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/englewood-screenshot.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/englewood-screenshot.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

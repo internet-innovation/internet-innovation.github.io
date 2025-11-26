@@ -5,14 +5,14 @@ date: 2021-03-01
 description: A working document demystifying broadband through definitions, FAQs, and myth-busting.
 tags: broadband education digital-literacy
 categories: data-story
-thumbnail: assets/img/blog/broadband-terms.jpg
+thumbnail: assets/img/blog/broadband-terms.png
 ---
 
 *By James Saxon, University of Chicago*
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/broadband-terms.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/broadband-terms.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

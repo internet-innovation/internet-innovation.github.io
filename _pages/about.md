@@ -4,8 +4,7 @@ title: Home
 permalink: /
 subtitle:
 description: Developing tools and techniques for measuring Internet performance and connectivity at the University of Chicago
-nav: true
-nav_order: 1
+nav: false
 
 profile:
   image: internet-innovation-initiative-banner.svg

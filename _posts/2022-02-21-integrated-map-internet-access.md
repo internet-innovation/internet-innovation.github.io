@@ -5,14 +5,14 @@ date: 2022-02-21
 description: Read how we built the national map featured on the portal.
 tags: broadband mapping data visualization
 categories: data-story
-thumbnail: assets/img/blog/integrated-map.jpg
+thumbnail: assets/img/blog/integrated-map.png
 ---
 
 *By James Saxon, University of Chicago*
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/integrated-map.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/integrated-map.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

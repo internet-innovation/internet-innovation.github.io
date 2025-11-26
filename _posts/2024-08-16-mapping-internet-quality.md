@@ -5,12 +5,12 @@ date: 2024-08-16
 description: Students examine the complexities of broadband policy in the United States.
 tags: broadband policy measurement
 categories: research
-thumbnail: assets/img/blog/mapping-screenshot.png
+thumbnail: assets/img/blog/mapping-screenshot.jpg
 ---
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/mapping-screenshot.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/mapping-screenshot.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
