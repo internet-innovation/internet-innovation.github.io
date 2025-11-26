@@ -5,7 +5,14 @@ date: 2022-05-05
 description: Examining internet access disparities across Chicago's 77 community areas using U.S. Census Bureau data.
 tags: digital-divide chicago census policy
 categories: data-story
+thumbnail: assets/img/blog/iStock-1028077888-1440x580.jpg
 ---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/iStock-1028077888-1440x580.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Overview
 

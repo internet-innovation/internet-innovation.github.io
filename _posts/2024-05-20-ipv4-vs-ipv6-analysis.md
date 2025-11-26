@@ -5,9 +5,19 @@ date: 2024-05-20
 description: Examining how Internet speed differs between IPv4 and IPv6 protocols using the Internet Innovation Initiative research platform.
 tags: ipv4 ipv6 measurement case-study
 categories: case-study
+thumbnail: assets/img/blog/ipv6-stats.png
 ---
 
 *By Amanda Hsu, Georgia Institute of Technology*
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ipv6-stats.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    IPv6 adoption statistics showing growth over time.
+</div>
 
 ## Overview
 
@@ -27,6 +37,15 @@ The investigation seeks to answer:
 - Does IPv4 or IPv6 affect user speeds?
 - How do standard speed tests like Ookla and NDT7 differ between protocols?
 - Do speed variations stem from different network paths or router processing differences?
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ipv4-ipv6-comparison.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Comparison of IPv4 and IPv6 performance measurements.
+</div>
 
 ## Preliminary Findings
 

@@ -5,9 +5,16 @@ date: 2021-05-27
 description: Laboratory experiments reveal the bandwidth requirements for Zoom, Google Meet, and Microsoft Teams.
 tags: measurement video-conferencing covid
 categories: data-story
+thumbnail: assets/img/blog/iStock-1216390582-1440x580.jpg
 ---
 
 *By Kyle MacMillan, Tarun Mangla, James Saxon, and Nick Feamster*
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/iStock-1216390582-1440x580.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Overview
 

@@ -5,7 +5,14 @@ date: 2024-08-16
 description: Data Science Clinic students examine the complexities of broadband policy in the United States.
 tags: broadband policy measurement
 categories: research
+thumbnail: assets/img/blog/mapping-screenshot.png
 ---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/mapping-screenshot.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Overview
 

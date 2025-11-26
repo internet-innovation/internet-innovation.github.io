@@ -5,17 +5,42 @@ date: 2022-10-01
 description: WiFi bottlenecks are widespread - 89 percent of studied households experienced at least one during our analysis.
 tags: wifi measurement netrics
 categories: data-story
+thumbnail: assets/img/blog/iStock-1314037715-e1665782372806-1440x580.jpg
 ---
 
 *By Antonia Sanhueza and Marc Richardson, with feedback from Tarun Mangla, Kyle MacMillan, Nicole Marwell, and Nick Feamster*
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/iStock-1314037715-e1665782372806-1440x580.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Overview
 
 This data story examines whether upgrading your internet service plan guarantees improved performance when using WiFi connections. The research analyzes data from Netrics devices deployed in Chicago households to explore how WiFi setups can result in slower speeds than the access connection supports.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/wifi-connection-diagram7.svg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    WiFi connection diagram showing the difference between access speed and WiFi speed.
+</div>
+
 ## Key Finding
 
 WiFi bottlenecks—situations where wireless speeds fall below wired access speeds—are widespread. The analysis reveals that **89 percent** of studied households experienced at least one WiFi bottleneck during the analysis period.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/wifi-data-story-household-bottlenecks1.svg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Distribution of WiFi bottlenecks across households.
+</div>
 
 ## Main Insights
 
