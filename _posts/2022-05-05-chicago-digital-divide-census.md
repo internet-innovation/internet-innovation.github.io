@@ -16,7 +16,7 @@ thumbnail: assets/img/blog/iStock-1028077888-1440x580.jpg
 
 ## Overview
 
-A research partnership between the Data Science Institute, a Data Science Clinic team, and the City of Chicago examined internet access disparities across Chicago's 77 community areas using U.S. Census Bureau data. The study aimed to identify neighborhoods with the lowest connectivity and understand how socioeconomic factors influence internet adoption.
+A research partnership between the University of Chicago and the City of Chicago examined internet access disparities across Chicago's 77 community areas using U.S. Census Bureau data. The study aimed to identify neighborhoods with the lowest connectivity and understand how socioeconomic factors influence internet adoption.
 
 ## Key Findings
 

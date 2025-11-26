@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 description: Data stories and research updates from the Internet Innovation Initiative
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <div class="post">

@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 description: Team members of the Internet Innovation Initiative
 nav: true
-nav_order: 5
+nav_order: 6
 display_categories: [Faculty, Researchers]
 horizontal: false
 ---

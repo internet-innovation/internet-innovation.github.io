@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Research projects from the Internet Innovation Initiative
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [Measurement Infrastructure, Data & Visualization]
 horizontal: false
 ---

@@ -4,7 +4,7 @@ title: Data & Code
 permalink: /datasets-code/
 description: Open datasets and code from the Internet Innovation Initiative
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## Data

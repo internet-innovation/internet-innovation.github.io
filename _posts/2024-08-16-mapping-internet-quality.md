@@ -2,7 +2,7 @@
 layout: post
 title: Mapping Internet Quality Across America with the Internet Innovation Initiative
 date: 2024-08-16
-description: Data Science Clinic students examine the complexities of broadband policy in the United States.
+description: Students examine the complexities of broadband policy in the United States.
 tags: broadband policy measurement
 categories: research
 thumbnail: assets/img/blog/mapping-screenshot.png
@@ -16,13 +16,13 @@ thumbnail: assets/img/blog/mapping-screenshot.png
 
 ## Overview
 
-The Internet Innovation Initiative's work in broadband measurement continues through collaboration with the University of Chicago Data Science Institute's Data Science Clinic. Three students completed research addressing broadband policy challenges affecting universal internet access in the United States.
+The Internet Innovation Initiative's work in broadband measurement continues through collaboration with the University of Chicago. Three students completed research addressing broadband policy challenges affecting universal internet access in the United States.
 
 ## Key Points
 
 Broadband measurement is at the heart of our project. The Internet Innovation Initiative leverages edge computing and hardware advances to enhance broadband measurement for research and policy applications while reducing deployment complexity and costs.
 
-The Data Science Clinic students' presentation examines the complexities of broadband policy in the United States and underscores the necessity for improved broadband data to identify infrastructure gaps more effectively.
+The students' presentation examines the complexities of broadband policy in the United States and underscores the necessity for improved broadband data to identify infrastructure gaps more effectively.
 
 The research identifies a critical need for better broadband performance data to support infrastructure investment decisions.
 

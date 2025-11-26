@@ -1,11 +1,15 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle:
 description: Developing tools and techniques for measuring Internet performance and connectivity at the University of Chicago
+nav: true
+nav_order: 1
 
 profile:
+  image: internet-innovation-initiative-banner.svg
+  image_circular: false
 
 news: false
 latest_posts: false
@@ -13,9 +17,17 @@ selected_papers: false
 social: false
 ---
 
-The [Internet Innovation Initiative](https://internetequity.uchicago.edu) at the University of Chicago develops tools and techniques for measuring Internet performance and connectivity. Our work focuses on device-based measurement using open-source software that runs on commodity hardware like Raspberry Pi devices.
+The Internet Innovation Initiative is an interdisciplinary research initiative at the University of Chicago focused on producing datasets, toolkits, and actionable research and insights to support communities working on broadband access across the United States.
 
-Read more about the initiative [here](https://internetequity.uchicago.edu/about/the-initiative).
+Our team brings together researchers with expertise spanning urban governance, social science, computer science, and computer networking, alongside staff with technology and policy backgrounds.
+
+## Our Work
+
+We develop tools and techniques for measuring Internet performance and connectivity. Our work focuses on device-based measurement using open-source software that runs on commodity hardware like Raspberry Pi devices.
+
+**Internet Study:** We actively recruit residents to participate in research measuring home internet connection performance, aiming to understand broadband access and performance variations across different communities.
+
+**Community Collaboration:** Partnership is a cornerstone of our work. We collaborate with organizations including [data.org](https://data.org), Ookla, the City of Chicago, Illinois Office of Broadband, and various community groups.
 
 ## Current Research
 
@@ -30,13 +42,9 @@ Our current research focuses on several key areas:
 - **Visualization and Dashboards**: Making network data accessible and actionable
   - [Netrics Dashboard](/projects/3-netrics-dash/): Web interface for visualizing device measurements
 
-## Projects
+## Resources
 
-Explore our research [projects](/projects/).
-
-## Data and Code
-
-We release datasets, code, and tools to enable reproducible research. Visit our [Data & Code](/datasets-code/) page to access our resources.
+We offer maps, data stories, research publications, working papers, community resources, and technical datasets. Visit our [Data & Code](/datasets-code/) page to access our resources, or read our [Blog](/blog/) for data stories and insights.
 
 ---
 
@@ -48,7 +56,15 @@ Led by Professors [Nick Feamster](https://people.cs.uchicago.edu/~feamster/) and
 
 ## Funding
 
-We gratefully acknowledge support from [data.org](https://data.org) and the [National Science Foundation](https://nsf.gov) Internet Measurement Research (IMR) program.
+We gratefully acknowledge support from [data.org](https://data.org), the [National Science Foundation](https://nsf.gov) Internet Measurement Research (IMR) program, and the NSF Strengthening American Infrastructure (SAI) program.
+
+---
+
+## Contact
+
+**Location:** John Crerar Library Building, 5730 South Ellis Avenue, Suite 263, Chicago, IL 60637
+
+**Email:** [broadband-equity@lists.uchicago.edu](mailto:broadband-equity@lists.uchicago.edu)
 
 ---
 
