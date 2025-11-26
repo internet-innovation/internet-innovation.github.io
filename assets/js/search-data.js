@@ -69,11 +69,11 @@ ninja.data = [{
           window.location.href = "/blog/2024/mapping-internet-quality/";
         
       },
-    },{id: "post-case-study-collaboration-with-greater-englewood-chamber-of-commerce-to-address-digital-inequity",
+    },{id: "post-case-study-collaboration-with-greater-englewood-chamber-of-commerce-to-address-digital-disparity",
       
-        title: "Case Study: Collaboration with Greater Englewood Chamber of Commerce to Address Digital Inequity...",
+        title: "Case Study: Collaboration with Greater Englewood Chamber of Commerce to Address Digital Disparity...",
       
-      description: "How community partnerships and data collection can illuminate hidden inequities and catalyze meaningful change.",
+      description: "How community partnerships and data collection can illuminate hidden disparities and catalyze meaningful change.",
       section: "Posts",
       handler: () => {
         
