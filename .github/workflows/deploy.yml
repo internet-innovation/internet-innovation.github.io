@@ -62,6 +62,7 @@ permissions:
 
 jobs:
   deploy:
+    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -70,16 +71,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.5"
-      - name: Install dependencies 📦
-        run: |
-          gem install bundler
-          bundle config set --local path vendor/bundle
-          bundle install --jobs 4 --retry 3
+          bundler-cache: true
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:
           python-version: "3.13"
-          cache: "pip"
+          cache: "pip" # caching pip dependencies
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
