@@ -3,13 +3,27 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-home",
+          title: "Home",
+          description: "Developing tools and techniques for measuring Internet performance and connectivity at the University of Chicago",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/";
+          },
+        },{id: "nav-about",
+          title: "About",
+          description: "About the Internet Innovation Initiative",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/about/";
+          },
+        },{id: "nav-projects",
           title: "Projects",
           description: "Research projects from the Internet Innovation Initiative",
           section: "Navigation",
@@ -44,11 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-media",
+          title: "Media",
+          description: "News coverage and media appearances about the Internet Innovation Initiative",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/media/";
+          },
         },{id: "post-mapping-internet-quality-across-america-with-the-internet-innovation-initiative",
       
         title: "Mapping Internet Quality Across America with the Internet Innovation Initiative",
       
-      description: "Data Science Clinic students examine the complexities of broadband policy in the United States.",
+      description: "Students examine the complexities of broadband policy in the United States.",
       section: "Posts",
       handler: () => {
         
@@ -110,6 +131,72 @@ ninja.data = [{
           window.location.href = "/blog/2022/tale-of-two-gigs/";
         
       },
+    },{id: "post-internet-access-and-broadband-analysis",
+      
+        title: "Internet Access and Broadband Analysis",
+      
+      description: "A scorecard of Internet access for the twenty largest metro regions in the United States.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2022/internet-access-scorecard/";
+        
+      },
+    },{id: "post-an-integrated-map-of-internet-access",
+      
+        title: "An Integrated Map of Internet Access",
+      
+      description: "Read how we built the national map featured on the portal.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2022/integrated-map-internet-access/";
+        
+      },
+    },{id: "post-practical-steps-for-improving-your-wi-fi",
+      
+        title: "Practical Steps for Improving Your Wi-Fi",
+      
+      description: "Three tips to improve your home Wi-Fi performance and potentially save money.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/practical-wifi-steps/";
+        
+      },
+    },{id: "post-can-my-wi-fi-deliver-the-internet-speeds-i-pay-for",
+      
+        title: "Can My Wi-Fi Deliver the Internet Speeds I Pay For?",
+      
+      description: "Research reveals a significant gap between promised and delivered WiFi performance in home networks.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/wifi-speeds/";
+        
+      },
+    },{id: "post-what-39-s-on-your-internet-performance-dashboard",
+      
+        title: "What&#39;s on Your Internet Performance Dashboard?",
+      
+      description: "Understanding the four key metrics displayed on your Internet performance dashboard.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/internet-performance-dashboard/";
+        
+      },
+    },{id: "post-examining-my-home-internet",
+      
+        title: "Examining My Home Internet",
+      
+      description: "A detailed look at what we can understand about Internet performance by examining a single home network.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/examining-my-home-internet/";
+        
+      },
     },{id: "post-how-much-internet-does-video-conferencing-need",
       
         title: "How Much Internet Does Video Conferencing Need?",
@@ -119,6 +206,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2021/video-conferencing-bandwidth/";
+        
+      },
+    },{id: "post-broadband-terms-questions-and-myths",
+      
+        title: "Broadband Terms, Questions, and Myths",
+      
+      description: "A working document demystifying broadband through definitions, FAQs, and myth-busting.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/broadband-terms-questions-myths/";
         
       },
     },{id: "people-nick-feamster",
