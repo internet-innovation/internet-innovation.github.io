@@ -5,7 +5,7 @@ permalink: /people/
 description: Team members of the Internet Innovation Initiative
 nav: true
 nav_order: 6
-display_categories: [Faculty, Researchers]
+display_categories: [Faculty, Researchers, Alumni]
 horizontal: false
 ---
 
