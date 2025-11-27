@@ -41,7 +41,7 @@ Our current research focuses on several key areas:
 
 ## Resources
 
-We offer maps, data stories, research publications, working papers, community resources, and technical datasets. Visit our [Data & Code](/datasets-code/) page to access our resources, or read our [Blog](/blog/) for data stories and insights.
+We offer maps, data stories, research publications, working papers, community resources, and technical datasets. Visit our [Data & Code](/datasets-code/) page to access our resources, or read our [News](/news/) for data stories and insights.
 
 ---
 

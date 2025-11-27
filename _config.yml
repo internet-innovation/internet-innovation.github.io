@@ -67,12 +67,12 @@ google_site_verification:
 bing_site_verification:
 
 # -----------------------------------------------------------------------------
-# Blog
+# News
 # -----------------------------------------------------------------------------
 
 blog_name:
-blog_description: Updates from the Internet Innovation Initiative
-permalink: /blog/:year/:title/
+blog_description:
+permalink: /news/:year/:title/
 lsi: false
 
 # Pagination
