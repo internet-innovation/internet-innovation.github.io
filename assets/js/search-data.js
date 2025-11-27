@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
+        },{id: "nav-news",
+          title: "News",
           description: "Data stories and research updates from the Internet Innovation Initiative",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/news/";
           },
         },{id: "nav-media",
           title: "Media",
@@ -66,7 +66,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/mapping-internet-quality/";
+          window.location.href = "/news/2024/mapping-internet-quality/";
         
       },
     },{id: "post-case-study-collaboration-with-greater-englewood-chamber-of-commerce-to-address-digital-disparity",
@@ -77,7 +77,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/englewood-case-study/";
+          window.location.href = "/news/2024/englewood-case-study/";
         
       },
     },{id: "post-case-study-ipv4-vs-ipv6-internet-speed-analysis",
@@ -88,7 +88,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/ipv4-vs-ipv6-analysis/";
+          window.location.href = "/news/2024/ipv4-vs-ipv6-analysis/";
         
       },
     },{id: "post-is-your-wifi-limiting-your-home-internet-performance",
@@ -99,7 +99,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2022/wifi-limiting-performance/";
+          window.location.href = "/news/2022/wifi-limiting-performance/";
         
       },
     },{id: "post-understanding-chicago-39-s-digital-divide-what-does-census-data-tell-us",
@@ -110,7 +110,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2022/chicago-digital-divide-census/";
+          window.location.href = "/news/2022/chicago-digital-divide-census/";
         
       },
     },{id: "post-a-tale-of-two-gigs",
@@ -121,7 +121,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2022/tale-of-two-gigs/";
+          window.location.href = "/news/2022/tale-of-two-gigs/";
         
       },
     },{id: "post-internet-access-and-broadband-analysis",
@@ -132,7 +132,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2022/internet-access-scorecard/";
+          window.location.href = "/news/2022/internet-access-scorecard/";
         
       },
     },{id: "post-an-integrated-map-of-internet-access",
@@ -143,7 +143,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2022/integrated-map-internet-access/";
+          window.location.href = "/news/2022/integrated-map-internet-access/";
         
       },
     },{id: "post-practical-steps-for-improving-your-wi-fi",
@@ -154,7 +154,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/practical-wifi-steps/";
+          window.location.href = "/news/2021/practical-wifi-steps/";
         
       },
     },{id: "post-can-my-wi-fi-deliver-the-internet-speeds-i-pay-for",
@@ -165,7 +165,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/wifi-speeds/";
+          window.location.href = "/news/2021/wifi-speeds/";
         
       },
     },{id: "post-what-39-s-on-your-internet-performance-dashboard",
@@ -176,7 +176,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/internet-performance-dashboard/";
+          window.location.href = "/news/2021/internet-performance-dashboard/";
         
       },
     },{id: "post-examining-my-home-internet",
@@ -187,7 +187,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/examining-my-home-internet/";
+          window.location.href = "/news/2021/examining-my-home-internet/";
         
       },
     },{id: "post-how-much-internet-does-video-conferencing-need",
@@ -198,7 +198,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/video-conferencing-bandwidth/";
+          window.location.href = "/news/2021/video-conferencing-bandwidth/";
         
       },
     },{id: "post-broadband-terms-questions-and-myths",
@@ -209,7 +209,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/broadband-terms-questions-myths/";
+          window.location.href = "/news/2021/broadband-terms-questions-myths/";
         
       },
     },{id: "people-nick-feamster",
