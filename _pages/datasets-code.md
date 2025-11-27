@@ -22,8 +22,8 @@ Our GitHub [organization](https://github.com/internet-innovation/) maintains **N
 ### Measurement Software
 
 **Repositories**:
-- **[nm-exp-active-netrics](https://github.com/internet-innovation/nm-exp-active-netrics)** - Production version
-- **[Netrics (beta)](https://github.com/internet-innovation/netrics)** - Redesigned for easier collaboration
+- **[Netrics v1](https://github.com/internet-innovation/nm-exp-active-netrics)** - Initial version of Netrics
+- **[Netrics v2](https://github.com/internet-innovation/netrics)** - Current version of Netrics redesigned for modular extension
 - **[Netrics Docker](https://github.com/internet-innovation/netrics-docker)** - Containerized deployment
 
 Bundles network diagnostic tools with configurable scheduling. Built-in tests include speed tests (Ookla, NDT, iperf), DNS latency, ping latency, and responsiveness. Extensible framework for adding custom measurements.

@@ -23,8 +23,8 @@ Netrics is an open-source system for measuring Internet performance from deploye
 
 ## Repositories
 
-- **[nm-exp-active-netrics](https://github.com/internet-innovation/nm-exp-active-netrics)** - Production version currently deployed in the field
-- **[Netrics (beta)](https://github.com/internet-innovation/netrics)** - Redesigned version for easier collaboration and extension
+- **[Netrics v1](https://github.com/internet-innovation/nm-exp-active-netrics)** - Initial version of Netrics
+- **[Netrics v2](https://github.com/internet-innovation/netrics)** - Current version of Netrics redesigned for modular extension
 - **[Netrics Docker](https://github.com/internet-innovation/netrics-docker)** - Containerized deployment for easy testing
 
 ## Quick Start
