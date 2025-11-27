@@ -217,6 +217,26 @@ ninja.data = [{
           description: "Neubauer Professor of Computer Science",
           section: "People",handler: () => {
               window.location.href = "/people/1-nick-feamster/";
+            },},{id: "people-tarun-mangla",
+          title: 'Tarun Mangla',
+          description: "Former Postdoctoral Scholar",
+          section: "People",handler: () => {
+              window.location.href = "/people/10-tarun-mangla/";
+            },},{id: "people-guilherme-martins",
+          title: 'Guilherme Martins',
+          description: "Former Software Engineer",
+          section: "People",handler: () => {
+              window.location.href = "/people/11-guilherme-martins/";
+            },},{id: "people-julia-lane",
+          title: 'Julia Lane',
+          description: "Former Executive Director",
+          section: "People",handler: () => {
+              window.location.href = "/people/12-julia-lane/";
+            },},{id: "people-jamie-saxon",
+          title: 'Jamie Saxon',
+          description: "Former Research Scientist",
+          section: "People",handler: () => {
+              window.location.href = "/people/13-jamie-saxon/";
             },},{id: "people-nicole-marwell",
           title: 'Nicole Marwell',
           description: "Professor, Crown Family School of Social Work, Policy, and Practice",
@@ -232,6 +252,16 @@ ninja.data = [{
           description: "PhD Student",
           section: "People",handler: () => {
               window.location.href = "/people/4-taveesh-sharma/";
+            },},{id: "people-jesse-london",
+          title: 'Jesse London',
+          description: "Software Engineer",
+          section: "People",handler: () => {
+              window.location.href = "/people/5-jesse-london/";
+            },},{id: "people-kyle-macmillan",
+          title: 'Kyle MacMillan',
+          description: "JD/PhD Candidate",
+          section: "People",handler: () => {
+              window.location.href = "/people/6-kyle-macmillan/";
             },},{id: "projects-netrics",
           title: 'Netrics',
           description: "Open-source Internet performance measurement system",
