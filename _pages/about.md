@@ -53,7 +53,7 @@ Led by Professors [Nick Feamster](https://people.cs.uchicago.edu/~feamster/) and
 
 ## Funding
 
-We gratefully acknowledge support from [data.org](https://data.org), the [National Science Foundation](https://nsf.gov) Internet Measurement Research (IMR) program, and the NSF Strengthening American Infrastructure (SAI) program.
+We gratefully acknowledge support from [data.org](https://data.org), the [National Science Foundation](https://nsf.gov) Internet Measurement Research (IMR) program, the NSF Strengthening American Infrastructure (SAI) program, and the [Comcast Innovation Fund](https://innovationfund.comcast.com/).
 
 ---
 
