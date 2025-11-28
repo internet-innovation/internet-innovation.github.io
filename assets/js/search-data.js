@@ -237,6 +237,16 @@ ninja.data = [{
           description: "Former Research Scientist",
           section: "People",handler: () => {
               window.location.href = "/people/13-jamie-saxon/";
+            },},{id: "people-alexis-schrubbe",
+          title: 'Alexis Schrubbe',
+          description: "Former Director",
+          section: "People",handler: () => {
+              window.location.href = "/people/14-alexis-schrubbe/";
+            },},{id: "people-marc-richardson",
+          title: 'Marc Richardson',
+          description: "Former Technical Project Manager",
+          section: "People",handler: () => {
+              window.location.href = "/people/15-marc-richardson/";
             },},{id: "people-nicole-marwell",
           title: 'Nicole Marwell',
           description: "Professor, Crown Family School of Social Work, Policy, and Practice",
