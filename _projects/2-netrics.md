@@ -3,7 +3,7 @@ layout: page
 title: Netrics
 description: Open-source Internet performance measurement system
 img: assets/img/netrics-install.jpg
-importance: 2
+importance: 1
 category: Measurement Infrastructure
 github: https://github.com/internet-innovation/netrics
 ---

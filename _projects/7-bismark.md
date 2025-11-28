@@ -1,10 +1,10 @@
 ---
 layout: page
 title: BISmark
-description: Broadband Internet Service Benchmark (Historical)
+description: Broadband Internet Service Benchmark (2011-2013)
 img: assets/img/bismark-thumb.svg
-importance: 7
-category: Historical
+importance: 3
+category: Measurement Infrastructure
 github: https://github.com/projectbismark
 ---
 

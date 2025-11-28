@@ -3,7 +3,7 @@ layout: page
 title: FLOTO
 description: NSF-funded edge computing platform for broadband research
 img: assets/img/floto-hero.jpg
-importance: 1
+importance: 2
 category: Measurement Infrastructure
 github: https://github.com/internet-innovation/netrics
 ---
