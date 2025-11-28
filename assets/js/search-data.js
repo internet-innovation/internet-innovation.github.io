@@ -272,6 +272,11 @@ ninja.data = [{
           description: "JD/PhD Candidate",
           section: "People",handler: () => {
               window.location.href = "/people/6-kyle-macmillan/";
+            },},{id: "people-jared-schachner",
+          title: 'Jared Schachner',
+          description: "Research Scientist, USC",
+          section: "People",handler: () => {
+              window.location.href = "/people/7-jared-schachner/";
             },},{id: "projects-floto",
           title: 'FLOTO',
           description: "NSF-funded edge computing platform for broadband research",
@@ -304,9 +309,14 @@ ninja.data = [{
               window.location.href = "/projects/6-application-performance/";
             },},{id: "projects-bismark",
           title: 'BISmark',
-          description: "Broadband Internet Service Benchmark (Historical)",
+          description: "Broadband Internet Service Benchmark (2011-2013)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7-bismark/";
+            },},{id: "projects-spatial-analysis",
+          title: 'Spatial Analysis',
+          description: "Hyperlocal geographic analysis of Internet performance",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8-spatial-analysis/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
