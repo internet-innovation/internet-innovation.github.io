@@ -2,12 +2,12 @@
 layout: page
 title: Application Performance
 description: Measuring quality of experience for real-world applications
-img: assets/img/blog/iStock-1216390582-1440x580.jpg
+img: assets/img/vca-research-thumb.svg
 importance: 6
 category: Research
 ---
 
-![Application Performance](/assets/img/blog/iStock-1216390582-1440x580.jpg){:class="img-fluid rounded z-depth-1" style="max-width: 500px;"}
+![Application Performance](/assets/img/vca-research-thumb.svg){:class="img-fluid rounded z-depth-1" style="max-width: 500px;"}
 
 ## Overview
 
