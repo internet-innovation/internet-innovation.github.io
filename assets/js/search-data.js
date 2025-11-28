@@ -272,6 +272,11 @@ ninja.data = [{
           description: "JD/PhD Candidate",
           section: "People",handler: () => {
               window.location.href = "/people/6-kyle-macmillan/";
+            },},{id: "projects-floto",
+          title: 'FLOTO',
+          description: "NSF-funded edge computing platform for broadband research",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1-floto/";
             },},{id: "projects-netrics",
           title: 'Netrics',
           description: "Open-source Internet performance measurement system",
@@ -282,6 +287,26 @@ ninja.data = [{
           description: "Web interface for visualizing Internet performance measurements",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3-netrics-dash/";
+            },},{id: "projects-speed-test-analysis",
+          title: 'Speed Test Analysis',
+          description: "Research on Internet speed test methodologies and best practices",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4-speedtest-analysis/";
+            },},{id: "projects-covid-19-internet-response",
+          title: 'COVID-19 Internet Response',
+          description: "Research on Internet performance during the pandemic",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5-covid-response/";
+            },},{id: "projects-application-performance",
+          title: 'Application Performance',
+          description: "Measuring quality of experience for real-world applications",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6-application-performance/";
+            },},{id: "projects-bismark",
+          title: 'BISmark',
+          description: "Broadband Internet Service Benchmark (Historical)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7-bismark/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',

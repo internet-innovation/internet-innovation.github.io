@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a5f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1b2a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bgGrad)"/>
+  <!-- Router icon -->
+  <rect x="140" y="100" width="120" height="60" rx="8" fill="#334155"/>
+  <rect x="150" y="110" width="100" height="40" rx="4" fill="#1e293b"/>
+  <!-- Antenna lines -->
+  <line x1="160" y1="100" x2="150" y2="70" stroke="#00d4ff" stroke-width="3"/>
+  <line x1="200" y1="100" x2="200" y2="65" stroke="#00d4ff" stroke-width="3"/>
+  <line x1="240" y1="100" x2="250" y2="70" stroke="#00d4ff" stroke-width="3"/>
+  <!-- Signal waves -->
+  <path d="M 145 60 Q 150 50 155 60" stroke="#00d4ff" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M 195 55 Q 200 45 205 55" stroke="#00d4ff" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M 245 60 Q 250 50 255 60" stroke="#00d4ff" stroke-width="2" fill="none" opacity="0.7"/>
+  <!-- LEDs -->
+  <circle cx="165" cy="125" r="4" fill="#22c55e"/>
+  <circle cx="185" cy="125" r="4" fill="#22c55e"/>
+  <circle cx="205" cy="125" r="4" fill="#eab308"/>
+  <circle cx="225" cy="125" r="4" fill="#22c55e"/>
+  <!-- Text -->
+  <text x="200" y="200" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle">BISmark</text>
+  <text x="200" y="230" font-family="system-ui, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Broadband Internet Service Benchmark</text>
+</svg>
